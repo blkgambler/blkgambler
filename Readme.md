@@ -42,4 +42,12 @@
 
 - [x] **AOS** Dashboard https://aosnft.netlify.app/
 
-- [x] **Dead Reject** Raffle Project
+- [x] **Dead Reject** Raffle Project https://raffle-deadreject.netlify.app/
+
+- [x] **Metaplex Utilities** - Print Maker and Edition Auction
+
+- [x] **Rock Paper Scissors Game** - https://solnino.io
+
+- [x] **Hitman Penguin** NFT Project - https://hitmanpenguin.space
+		
+- [x] **Demon Vault** Project https://demonvault.xyz
