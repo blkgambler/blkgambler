@@ -48,6 +48,6 @@
 
 - [x] **Rock Paper Scissors Game** - https://solnino.io
 
-- [x] **Hitman Penguin** NFT Project - https://hitmanpenguin.space
+- [x] **Hitman Penguin** NFT Project - https://hpsm.space
 		
-- [x] **Demon Vault** Project https://demonvault.xyz
+- [x] **Demon Vault** Project https://demonvault.tech
